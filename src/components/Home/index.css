@@ -1,0 +1,11 @@
+.meetup-image {
+  width: 400px;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.nav-link {
+  text-decoration: none;
+}
